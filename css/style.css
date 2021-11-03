@@ -1,0 +1,67 @@
+
+.navbar{
+    margin: 0 auto;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    padding-left: 1rem;
+    background-color: lightgray;
+    display: flex;
+    justify-content:space-between;
+}
+
+
+ul{
+    list-style-type: none;
+    margin-right: 0rem;
+    font-size: larger;
+
+}
+
+
+button{
+    background-color:darkgray;
+    border: 1px solid transparent;
+    border-radius: 100rem;
+    padding: 2px 50px;
+    margin-top: 0rem;
+    margin-bottom: 5rem;
+}
+
+input{
+    border: 1px solid transparent;
+    border-radius: 100rem;
+    padding:2px 100px;
+    margin-top: 0rem;
+    margin-bottom: 5rem;
+}
+
+.Carrito{
+    display: flex;
+    list-style-type: none;
+    margin-right: 0rem;
+    margin-bottom: 10rem;
+    font-size: larger;
+}
+
+.carousel-inner > .carousel-item > img {
+    width: 700px;
+    height: 400px; 
+  }
+
+.ofertas{
+    background-color: grey;
+    padding-top: 2rem;
+    margin-top: 0 auto;
+}
+
+h3{
+    color: rgb(3, 2, 2);
+    font-size: x-large;
+    font-family: 'Righteous', cursive;
+}
+
+p{
+    color:lavenderblush;
+    text-align:center;
+    font-weight:bold;
+}
